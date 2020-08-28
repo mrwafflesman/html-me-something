@@ -81,6 +81,9 @@ p {
 }
 
 footer {
+    margin-left: 10%;
+    margin-right: 10%;
     padding-top: 20px;
     text-align: center;
+    background-color: aqua;
 }
